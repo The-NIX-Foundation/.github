@@ -21,7 +21,7 @@ We are the umbrella foundation for projects that share these values, by the [Ope
 The NIX Foundation is open to developers, engineers, and enthusiasts who believe in the power of the command line.
 
 - Read our [Manifesto](https://github.com/The-NIX-Foundation/Manifesto).
-- Learn about the NIX-Certified Standard.
+- Learn about the [NIX Certified](https://github.com/The-NIX-Foundation/NIX-Certified) Standard.
 - Contribute: Check out our open issues and feel free to submit a Pull Request.
 
 *And welcome to the future of NIX!*
