@@ -1,4 +1,4 @@
-# The NIX Foundation
+<img src="./NIX-full.svg" width="300" alt="NIX Full">
 
 The home of independent *NIX development.
 We believe the operating system should serve the user, not the corporation.
@@ -20,7 +20,7 @@ We are the umbrella foundation for projects that share these values, by the [Ope
 
 The NIX Foundation is open to developers, engineers, and enthusiasts who believe in the power of the command line.
 
-- Read our Manifesto.
+- Read our [Manifesto](https://github.com/The-NIX-Foundation/Manifesto).
 - Learn about the NIX-Certified Standard.
 - Contribute: Check out our open issues and feel free to submit a Pull Request.
 
