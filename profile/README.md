@@ -1,4 +1,4 @@
-<img src="../NIX-full.svg" width="300" alt="NIX Full">
+<img src="../NIX-full.svg" width="500" alt="NIX Full">
 
 The home of independent *NIX development.
 We believe the operating system should serve the user, not the corporation.
