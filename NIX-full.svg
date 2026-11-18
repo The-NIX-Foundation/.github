@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="122"
+   height="50"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.2903px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#008000;stroke-width:0.830445"
+     x="-2.3468504"
+     y="36.387627"
+     id="text1"><tspan
+       id="tspan1"
+       x="-2.3468504"
+       y="36.387627"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.830445">NIX</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;writing-mode:lr-tb;direction:ltr;fill:#000000"
+     x="0.56054354"
+     y="48.517937"
+     id="text2"><tspan
+       id="tspan2"
+       x="0.56054354"
+       y="48.517937">Foundation</tspan></text>
+  <path
+     style="fill:#008000"
+     id="path3"
+     d="M 96.723868,4.8361932 85.069371,10.567602 88.455537,19.968799 82.724128,8.3143024 73.322931,11.700468 84.977428,5.9690591 81.591262,-3.4321377 87.322671,8.2223587 Z"
+     transform="matrix(1.7666667,0,0,1.7666667,-51.378052,10.392616)" />
+</svg>
