@@ -23,7 +23,7 @@ The NIX Foundation are the owner of other organizations of *NIX ecosystem:
 The NIX Foundation is open to developers, engineers, and enthusiasts who believe in the power of the command line.
 
 - Read our [Manifesto](https://github.com/The-NIX-Foundation/Manifesto).
-- Learn about the [NIX Certified](https://github.com/The-NIX-Foundation/NIX-Certified) Standard.
+- Learn about the [NIX Standard](https://github.com/The-NIX-Foundation/NIX-Standard).
 - Contribute: Check out our open issues and feel free to submit a Pull Request.
 
 *And welcome to the future of NIX!*
