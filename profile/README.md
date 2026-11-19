@@ -14,7 +14,9 @@ The NIX Foundation is an open-source organization dedicated to preserving the ph
 
 ## Our Ecosystem
 
-We are the umbrella foundation for projects that share these values, by the [Openware Labs](https://github.com/Openware-Labs)
+The NIX Foundation are the owner of other organizations of *NIX ecosystem:
+
+- [NIXware Labs](https://github.com/NIXware-Labs)
 
 ## Join Us
 
