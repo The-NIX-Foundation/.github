@@ -12,12 +12,6 @@ The NIX Foundation is an open-source organization dedicated to preserving the ph
 - Zero Telemetry: Software should not spy on its users. Privacy is a fundamental right.
 - Open Standards: The *NIX ecosystem belongs to everyone, not to a single certification board.
 
-## Our Ecosystem
-
-The NIX Foundation are the owner of other organizations of *NIX ecosystem:
-
-- [NIXware Labs](https://github.com/NIXware-Labs)
-
 ## Join Us
 
 The NIX Foundation is open to developers, engineers, and enthusiasts who believe in the power of the command line.
